@@ -27,7 +27,7 @@ export default function App() {
   });
 
   return (
-    <BrowserRouter basename="/adelaidetamillanguageschool">
+    <BrowserRouter>
       <ScrollToTop />
 
       <AnimatePresence mode="wait">
