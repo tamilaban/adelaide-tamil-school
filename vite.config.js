@@ -6,6 +6,6 @@ import tailwindcss from '@tailwindcss/vite';
 // React + Vite + Tailwind v4, sharing the Skyrin design language
 // (navy #15355E / amber #CB8315, Outfit display type, glass panels).
 export default defineConfig({
-  base: '/adelaide-tamil-school/',
+  base: '/adelaidetamillanguageschool/',
   plugins: [react(), tailwindcss()],
 });
